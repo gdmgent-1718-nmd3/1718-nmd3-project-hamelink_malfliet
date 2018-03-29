@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Brent Malfliet
+ - Marjolein Hamelink
 
 Gekozen Museum
 --------------

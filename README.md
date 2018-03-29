@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Brent Malfliet
+ - Marjolein Hamelink
 
 > Artevelde University College Ghent
 

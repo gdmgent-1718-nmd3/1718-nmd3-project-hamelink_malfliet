@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - Brent Malfliet, 2CMO-GD
+ - Marjolein Hamelink, 2CMO-GD
