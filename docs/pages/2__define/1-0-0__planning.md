@@ -6,3 +6,13 @@ published: true
 # ─────────────────────
 title: Planning
 ---
+23/02 Museum bezoek Brussel
+02/03 Analyse & technische analyse af
+07/03 Pitch voor concept voorbereiden
+08/03 Pitch voor concept presenteren
+15/03 Ideaboard en moodboard
+20/03 Wireflow en paperprototype maken
+22/03 Feedback wireflow en paperprototype & Styletiles
+29/03 Productiedossier up to date
+06/04 Wireframe digitaal af en visual design smartwatch
+12/04 Begin Visual design app
