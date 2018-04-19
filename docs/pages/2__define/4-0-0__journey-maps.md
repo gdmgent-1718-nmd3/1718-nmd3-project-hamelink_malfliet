@@ -6,13 +6,14 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
-Persona
-Finn Martens is een student van 20 jaar, die studeert aan de kunstacademie in Gent. Hij doet de opleiding illustratie op het Sint-Lucas. Oorspronkelijk komt hij uit Mechelen, maar doordat hij nu studeert in Gent zit hij daar op kot. Zijn familie bestaat uit zijn ouders en een kleiner zusje van 15 jaar. Hij is geïnteresseerd in de kunstgeschiedenis, maar ook de hedendaagse kunst. Zijn hobby’s zijn fotograferen, schilderen en een beetje rondhangen met zijn vrienden. Hij gaat graag op citytrip om verschillende musea te bezoeken. Het Magritte museum in Brussel is natuurlijk wel zijn favoriet. Magritte is zijn voorbeeld en hij haalt er veel inspiratie uit voor zijn eigen werk. 
-Zijn inkomen is minimaal, omdat hij natuurlijk student is. In de zomer gaat hij eerst een aantal weken werken en van dat geld gaat hij met zijn vriendin op citytrip om een beetje cultuur op te snuiven.
-Frustraties: Slecht weer, weinig tijd voor vrienden, luiheid
-Apps: Waze, nmbs, TVtime
-Websites: netflix.com, fine-arts-museum.be, pinterest.com
-Toestellen:  Smartwatch, Iphone 7, Macbook pro
+## Persona
+...Finn Martens is een student van 20 jaar, die studeert aan de kunstacademie in Gent. Hij doet de opleiding illustratie op het Sint-Lucas. Oorspronkelijk komt hij uit Mechelen, maar doordat hij nu studeert in Gent zit hij daar op kot. Zijn familie bestaat uit zijn ouders en een kleiner zusje van 15 jaar. Hij is geïnteresseerd in de kunstgeschiedenis, maar ook de hedendaagse kunst. Zijn hobby’s zijn fotograferen, schilderen en een beetje rondhangen met zijn vrienden. Hij gaat graag op citytrip om verschillende musea te bezoeken. Het Magritte museum in Brussel is natuurlijk wel zijn favoriet. Magritte is zijn voorbeeld en hij haalt er veel inspiratie uit voor zijn eigen werk. 
+...Zijn inkomen is minimaal, omdat hij natuurlijk student is. In de zomer gaat hij eerst een aantal weken werken en van dat geld gaat hij met zijn vriendin op citytrip om een beetje cultuur op te snuiven.
+...
+#### Frustraties: Slecht weer, weinig tijd voor vrienden, luiheid
+#### Apps: Waze, nmbs, TVtime
+#### Websites: netflix.com, fine-arts-museum.be, pinterest.com
+#### Toestellen:  Smartwatch, Iphone 7, Macbook pro
 
 
 André de Beule is een 77 jarige man, een vader van 4 kinderen en gepensioneerd. Vroeger heeft hij  een tijd gewerkt in een sigarettenfabriek van Sint Michel en is voornamelijk leerkracht Mechanica geweest. In zijn vrije tijd wandelt hij graag door de bossen van Dendermonde, waar hij woont samen met zijn vrouw. Zijn interesses zijn kunst en sport.
