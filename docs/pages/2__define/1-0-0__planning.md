@@ -14,5 +14,9 @@ title: Planning
 20/03 Wireflow en paperprototype maken
 22/03 Feedback wireflow en paperprototype & Styletiles
 29/03 Productiedossier up to date
-06/04 Wireframe digitaal af en visual design smartwatch
-12/04 Begin Visual design app
+06/04 Wireframe digitaal af en laten testen 
+12/04 Verbeterpunten wireframes toepassen. Begin Visual design app en visual design smartwatch
+26/04 Visual design van beiden verbeteren en afronden
+03/05 Indien visual design niet af nog afronden, Digital style guide maken
+10/05 productiedossier up tot date, indien verbeterpunten toepassen. Begin aan website
+17/05 
