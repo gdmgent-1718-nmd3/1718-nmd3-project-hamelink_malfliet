@@ -6,6 +6,8 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
-![alt text](../../assets/img/ideaboard.png "ideaboard")
-![alt text](../../assets/img/ideaboard2.png "ideaboard")
-![alt text](../../assets/img/ideaboard3.png "ideaboard")
+![alt text](../../assets/img/ideaboard.png "ideaboard"){:.img-fluid}
+---------
+![alt text](../../assets/img/ideaboard2.png "ideaboard"){:.img-fluid}
+---------
+![alt text](../../assets/img/ideaboard3.png "ideaboard"){:.img-fluid}
