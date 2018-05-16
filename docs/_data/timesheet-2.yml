@@ -1,28 +1,41 @@
 # ╔═══════════╗
-# ║ Student 2 ║
+# ║   Brent   ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Museum bezoek
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.0
+  task: vragen gesteld
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Technische Analyse geschreven
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 1.5
+  task: moodboard & ideaboard
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 3.0
+  task: pitch voorbereid & presentatie gemaakt
+-
+  time: 1.5
+  task: paper prototype smartwatch
+-
+  time: 2.0
+  task: paper prototype smartphone
+-
+  time: 3.0
+  task: wireframe smartwatch digitaal
+-
+  time: 3.0
+  task: wireframe smartphone
+-
+  time: 1.5
+  task: gebruikerstesten
+-
+  time: 1.5
+  task: Gebruikerstesten bespreken, uitschrijven en de door te voeren aanpassingen uitschrijven
+  -
+  time: 3.5
+  task: samenzitten en wireframes van beide toestellen bespreken en planning maken voor de komende weken
+
