@@ -7,6 +7,6 @@ published: true
 title: Journey Maps
 ---
 ## Persona
-![small](../../assets/img/finn.png "persona_finn")
-![small](../../assets/img/andre.png "persona_andre")
-![small](../../assets/img/floor.png "persona_finn")
+![alt text](../../assets/img/finn.png "persona_finn")
+![alt text](../../assets/img/andre.png "persona_andre")
+![alt text](../../assets/img/floor.png "persona_finn")
