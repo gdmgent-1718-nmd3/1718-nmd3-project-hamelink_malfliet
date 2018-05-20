@@ -1,49 +1,28 @@
 # ╔═══════════╗
-# ║ Marjolein ║
+# ║ Student 2 ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 2.50
-  task: Museum bezoek
--
-  time: 1.0
-  task: vragen gesteld
--
-  time: 1.5
-  task: Analyse geschreven
+  time: 0.25
+  task: Lorem ipsum sit dolor amet.
 -
   time: 0.5
-  task: technische analyse geschreven (gefinaliseerd)
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 0.75
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 1
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 1.25
+  task: Lorem ipsum sit dolor amet.
 -
   time: 1.5
-  task: moodboard & ideaboard
+  task: Lorem ipsum sit dolor amet.
 -
-  time: 3.0
-  task: pitch voorbereid & presentatie gemaakt
+  time: 1.75
+  task: Lorem ipsum sit dolor amet.
 -
-  time: 1.5
-  task: paper prototype smartwatch
--
-  time: 2.0
-  task: paper prototype smartphone
--
-  time: 1.5
-  task: wireflow smartwatch op papier
--
-  time: 1.0
-  task: Gebruikerstest bespreken + wireflow verbeteren op papier
--
-  time: 0.5
-  task: planning gemaakt voor wat we nog moesten maken
--
-  time: 1.0
-  task: wireflow smartphone
--
-  time: 2.5
-  task: stiletyles & iconen maken
--
-  time: 2.5
-  task: Digital styleguide smartwatch & smartphone
--
-  time: 3.5
-  task: samenzitten en wireframes van beide toestellen bespreken en planning maken voor de komende weken
+  time: 200
+  task: Lorem ipsum sit dolor amet.
