@@ -11,12 +11,17 @@
 //
 
 $cyan:    #17a2b8 !default;
-$primary: $cyan;
+$blue:    #0023E6 !default;
+$green:   #00C87D !default;
+$black:   #0F1419 !default;
+$primary: $green;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+//@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
 
-$font-family-base: Karla, serif;
+$headings-color: $green;
+$font-family-base: 'Roboto', sans-serif;

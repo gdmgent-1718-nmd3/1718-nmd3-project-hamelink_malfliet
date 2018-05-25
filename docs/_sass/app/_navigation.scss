@@ -4,7 +4,7 @@ $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
 .gdm-nav {
-  background-color: $dark;
+  background-color: $dark; //hier achtergrondkleur navigatiebalk aanpassen
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
 }
