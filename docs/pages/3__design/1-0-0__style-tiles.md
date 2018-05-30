@@ -9,6 +9,7 @@ title: Style Tiles
 
 Gekozen
 -------
+![Gekozen Styletile](../../assets/img/styletile1.png){:.img-fluid}
 
 Alternatief 1
 -------------

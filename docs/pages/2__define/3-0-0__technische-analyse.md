@@ -6,13 +6,17 @@ published: true
 # ─────────────────────
 title: Technische Analyse
 ---
+De app zal zowel een toepassing hebben voor smartphone als voor smartwatch.  
+Als smartphone kozen we de iPhone 7 met als smartwatch de Apple Watch series 3.  
+Na onderzoek van het gebruik, technische mogelijkheden en ontwerprichtlijnen van deze toestellen stelden we het volgende vast.
+
 ### **Smartwatch: Apple Watch series 3 (42mm)**
-- Afmetingen Apple Watch:
+Afmetingen Apple Watch
 - hoogte: 42,5 mm
 - breedte: 36,4 mm
 
 
-- Afmetingen Display:
+Afmetingen Display
 - 312 × 390 pixels
 
 
@@ -37,8 +41,11 @@ Apps kunnen korte video- en audio clips afspelen terwijl de app actief is en op 
 Apps kunnen langere audio-only inhoud afspelen via een verbonden Bluetooth-headset wanneer de app inactief is. Lange audioclips worden op de achtergrond afgespeeld en zijn bedoeld voor apps die muziek, audioboeken of andere lange vormen van audiocontent afspelen. 
 Uw app start het afspelen van audio, maar het systeem beheert het.
 
+
+
 ### **Smartphone: iPhone 7**
-- Afmetingen Display: 1334 × 750 pixels bij 326 ppi
+Afmetingen Display
+- 1334 × 750 pixels bij 326 ppi
 - Retina HD-display
 
 ##### **Camera**
@@ -74,9 +81,11 @@ Uw app start het afspelen van audio, maar het systeem beheert het.
 - Omgevingslichtsensor
 
 ##### **Besturingssysteem**
-- iOS 11.
- Dankzij de nieuwe features en mogelijkheden in iOS 11 krijg je makkelijker meer voor elkaar. Alles werkt prettiger, persoonlijker en slimmer.
+iOS 11. Dankzij de nieuwe features en mogelijkheden in iOS 11 krijg je makkelijker meer voor elkaar. Alles werkt prettiger, persoonlijker en slimmer.
 
 ##### **Wat zijn beacons?**
-**Navigation:** Creating accurate “GPS for indoor navigation” is a popular beacon use case. What Google Maps does for the outdoors, beacons can do for the indoors. They can tell you where you are and where you’re going in a museum, festival, or train station.
-**Interaction:** Beacons can make reactions automated and trigger events. When you enter a room, the projector starts. It sends notifications or acts as a loyalty card. If you make a purchase at your local cafe, beacons help the app register that you were there. On your tenth entry, you get a free latte—awesome!
+**Navigatie**  
+Het creëren van een nauwkeurige "GPS voor navigatie binnenshuis" is een populaire case voor beacon-gebruik. Wat Google Maps voor het buitenleven doet, kunnen beacons voor binnenshuis doen. Ze kunnen je vertellen waar je bent en waar je naartoe gaat in een museum, festival of treinstation.  
+**Interactie**  
+Beacons kunnen reacties geautomatiseerd maken en gebeurtenissen activeren. Wanneer u een kamer binnengaat, start de projector. Het verzendt meldingen of fungeert als een klantenkaart. Als u een aankoop doet in uw plaatselijke café, helpen beacons de app te registreren dat u daar was. Op je tiende inzending krijg je dan bijvoorbeeld een gratis koffie - awesome!
+

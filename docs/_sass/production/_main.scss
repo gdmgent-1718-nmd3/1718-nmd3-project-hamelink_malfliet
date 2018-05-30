@@ -1,7 +1,11 @@
-.container{ margin-top: 75px;}
+.container{ margin: 75px;}
 .img-small{ width: 200px;}
 table{
     tbody tr:nth-of-type(#{$table-striped-order}) {
         background-color: $table-accent-bg;
       }
+}
+
+h1 {
+    color: $blue !important; 
 }

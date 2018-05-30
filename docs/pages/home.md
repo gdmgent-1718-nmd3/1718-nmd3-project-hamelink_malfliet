@@ -14,5 +14,9 @@ Wie zijn we?
 ------------
 ![Brent Malfliet](assets/img/brent.png){:.img-small.rounded-circle}
 
- - Brent Malfliet, 2CMO-GD
- - Marjolein Hamelink, 2CMO-GD
+Brent Malfliet
+
+ ![Marjolein Hamelink](assets/img/marjolein.jpg){:.img-small.rounded-circle}
+
+Marjolein Hamelink
+
