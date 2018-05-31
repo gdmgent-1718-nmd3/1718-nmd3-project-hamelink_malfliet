@@ -35,9 +35,9 @@ Op het einde van het bezoek kan je jouw persoonlijke **resultaten** raadplegen. 
 ### Smartwatch-app
 De smartwatch-app heeft vooral een aanvullende functie. Je kan er data raadplegen tijdens het museumbezoek zelf.  
 Volgende zaken zullen worden bijgehouden:
-- Je hartslag 
-- Het aantal stappen je tijdens het bezoek zet.
-- Hoe lang je in het museum verbleef.
-- Je punten op de quiz op dat moment. 
-Via de watch kan je ook een filmplanning instellen.  
-Verder zal de watch ook een aantal meldingen geven. Zo krijg je een melding wanneer je film binnen 5 minuten zal starten, of als je voor een schilderij staat waar een vraag over wordt gesteld in de quiz. Na het raten van een aantal schilderijen krijg je ook een melding van gerelateerde werken die je misschien wel kunnen interesseren en hun locatie in het museum.
+- Je **hartslag**.
+- Het **aantal stappen** je tijdens het bezoek zet.
+- Hoe **lang** je in het museum **verbleef**.
+- Je **punten** op de quiz op dat moment. 
+Via de watch kan je ook een **filmplanning** instellen.  
+Verder zal de watch ook een aantal **meldingen** geven. Zo krijg je een melding wanneer je film binnen 5 minuten zal starten, of als je voor een schilderij staat waar een vraag over wordt gesteld in de quiz. Na het raten van een aantal schilderijen krijg je ook een melding van gerelateerde werken die je misschien wel kunnen interesseren en hun locatie in het museum.

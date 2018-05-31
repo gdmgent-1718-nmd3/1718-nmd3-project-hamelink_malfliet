@@ -1,4 +1,8 @@
-.container{ margin: 75px;}
+.container
+{  
+    padding: 75px;
+}
+
 .img-small{ width: 200px;}
 table{
     tbody tr:nth-of-type(#{$table-striped-order}) {
@@ -8,4 +12,15 @@ table{
 
 h1 {
     color: $blue !important; 
+}
+.sd-watch {
+    width: 200px;
+}
+
+.grey {
+    background-color: rgba(248, 248, 248, 0.967);
+}
+
+.spacing {
+    margin-bottom: 20px;
 }

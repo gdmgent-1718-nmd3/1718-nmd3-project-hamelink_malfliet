@@ -13,6 +13,8 @@ Gekozen
 
 Alternatief 1
 -------------
+![Alternatief 1](../../assets/img/styletile2.png){:.img-fluid}
 
 Alternatief 2
 -------------
+![Alternatief 2](../../assets/img/styletile3.png){:.img-fluid}
