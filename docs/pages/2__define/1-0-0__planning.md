@@ -23,4 +23,6 @@ title: Planning
 | 03/05 | Indien visual design niet af nog afronden, Digital style guide maken                     |
 | 10/05 | Productiedossier up tot date, indien verbeterpunten toepassen. Begin aan website         |
 | 17/05 | Alles wat we nog niet afhadden in onze planning bijwerken indien nodig                   |
+| 24/05 | Website visuals, op feedback, aanpassingen na feedback toepassen                         |
+| 31/05 | Productiedossier aanpassen, website finetunen, app watch & phone af                      |
 {:.table}
