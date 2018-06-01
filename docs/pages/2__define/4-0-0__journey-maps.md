@@ -6,9 +6,17 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
-## Persona
-![alt text](../../assets/img/finn.png "persona_finn"){:.img-fluid}
+## André De Beule
+![Persona André](../../assets/img/personas/personas_fases.png){:.img-fluid}
+![Journey Map André](../../assets/img/personas/personas_fases2.png){:.img-fluid}
 
-![alt text](../../assets/img/andre.png "persona_andre"){:.img-fluid}
+## Floor Goosens
+![Persona Floor](../../assets/img/personas/personas_fases3.png){:.img-fluid}
+![Journey Map Floor](../../assets/img/personas/personas_fases4.png){:.img-fluid}
 
-![alt text](../../assets/img/floor.png "persona_finn"){:.img-fluid}
+## Finn Martens
+![Persona Finn](../../assets/img/personas/personas_fases5.png){:.img-fluid}
+![Journey Map Finn](../../assets/img/personas/personas_fases6.png){:.img-fluid}
+
+## Pijnpunten en opportuniteiten
+![Besluit](../../assets/img/personas/personas_fases7.png){:.img-fluid}

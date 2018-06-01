@@ -12,7 +12,7 @@ Hallo en welkom in ons dossier!
 
 Wie zijn we?
 ------------
-![Brent Malfliet](assets/img/brent.png){:.img-small.rounded-circle}
+![Brent Malfliet](assets/img/brent2.png){:.img-small.rounded-circle}
 
 Brent Malfliet
 
