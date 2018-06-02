@@ -9,8 +9,8 @@ title: Gebruikerstests
 
 Paper Prototype
 ---------------
-![Paper Prototype](../../../assets/img/prototype3.png){:.img-fluid.spacing}
-![Paper Prototype Detail](../../../assets/img/prototype4.png){:.img-fluid}
+![Paper Prototype](../../../assets/img/prototype1.png){:.img-fluid.spacing}
+![Paper Prototype Detail](../../../assets/img/prototype2.png){:.img-fluid}
 
 
 ## Gebruikerstesten

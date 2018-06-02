@@ -3,7 +3,10 @@
     padding: 75px;
 }
 
-.img-small{ width: 200px;}
+.img-small{ 
+    width: 200px;
+    margin: 20px 0px;
+}
 table{
     tbody tr:nth-of-type(#{$table-striped-order}) {
         background-color: $table-accent-bg;
@@ -28,4 +31,7 @@ h1 {
 .smart-text {
     padding-top: 140px;
     padding-right: 50px;
+}
+.text-black {
+    color: $black;
 }

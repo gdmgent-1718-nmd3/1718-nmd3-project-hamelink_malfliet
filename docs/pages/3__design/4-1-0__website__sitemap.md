@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+![Sitemap](../../../assets/img/sitemap.png){:.img-fluid}  

@@ -7,7 +7,7 @@ published: true
 title: Formulieren
 ---
 <p>Voor heel het project werd enkel een contactformulier gebruikt op onze website.</p>
-<p>Verder is ook nog een rating mogelijk in de smartphone-app, evenals checkboxes voor de quizvragen. De rating gebeurt aan de hand van hoedjes (1-5)</p>
+<p>Verder is ook nog een rating mogelijk in de smartphone-app, evenals checkboxes voor de quizvragen. De rating gebeurt aan de hand van hoedjes (1-5).</p>
 <form>
     <div class="form-group">
         <label for="name">Name</label>
