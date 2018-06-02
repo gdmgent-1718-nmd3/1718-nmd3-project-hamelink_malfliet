@@ -6,10 +6,10 @@
   time: 3.50
   task: Museum bezoek
 -
-  time: 1.5
+  time: 2.0
   task: vragen gesteld
 -
-  time: 2.5
+  time: 3.0
   task: Technische Analyse geschreven
 -
   time: 1.5
@@ -18,7 +18,7 @@
   time: 3.0
   task: pitch voorbereid & presentatie gemaakt
 -
-  time: 3.5
+  time: 4.5
   task: paper prototype smartwatch
 -
   time: 4.0
@@ -39,13 +39,13 @@
   time: 4.5
   task: samenzitten en wireframes van beide toestellen bespreken, visuals van watch en app en planning maken voor de komende weken
 -
-  time: 3
+  time: 4
   task: Dossier aanpassen + stijlen
 -
   time: 5
   task: Verder aanvullen dossier + aanpassingen, toevoegen van afbeeldingen
 -
-  time: 3.0
+  time: 4.0
   task: Dossier aanpassen, finetunen
 -
   time: 2.0
@@ -54,7 +54,7 @@
   time: 3.75
   task: Styleguide
 -
-  time: 2.5
+  time: 3.5
   task: Aanpassingen doorvoeren in dossier
 -
   time: 3
