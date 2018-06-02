@@ -12,6 +12,9 @@
   time: 1.5
   task: Analyse geschreven
 -
+  time: 3.5
+  task: Persona's geschreven en opgemaakt in inDesign, verschillende fases geschreven
+-
   time: 0.5
   task: technische analyse geschreven (gefinaliseerd)
 -
@@ -59,3 +62,12 @@
 -
   time: 3.0
   task: Wireflow aangepast, dossier aanpassen.
+-
+  time: 1.5
+  task: Persona's aangepast op gebied van lay-out
+-
+  time: 1.0
+  task: Laatste aanpassingen in het algemeen van tekst/opmaak/visuals
+-
+  time: 1.5
+  task: Presentatie gemaakt
