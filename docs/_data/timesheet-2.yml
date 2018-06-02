@@ -3,13 +3,13 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 2.50
+  time: 3.50
   task: Museum bezoek
 -
-  time: 1.0
+  time: 1.5
   task: vragen gesteld
 -
-  time: 1.5
+  time: 2.5
   task: Technische Analyse geschreven
 -
   time: 1.5
@@ -18,10 +18,10 @@
   time: 3.0
   task: pitch voorbereid & presentatie gemaakt
 -
-  time: 1.5
+  time: 3.5
   task: paper prototype smartwatch
 -
-  time: 2.0
+  time: 4.0
   task: paper prototype smartphone
 -
   time: 3.0
@@ -30,31 +30,31 @@
   time: 3.0
   task: wireframe smartphone
 -
-  time: 1.5
+  time: 2.5
   task: gebruikerstesten
 -
-  time: 1.5
+  time: 2.5
   task: Gebruikerstesten bespreken, uitschrijven en de door te voeren aanpassingen uitschrijven
 -
   time: 4.5
   task: samenzitten en wireframes van beide toestellen bespreken, visuals van watch en app en planning maken voor de komende weken
 -
-  time: 2
+  time: 3
   task: Dossier aanpassen + stijlen
 -
-  time: 4
+  time: 5
   task: Verder aanvullen dossier + aanpassingen, toevoegen van afbeeldingen
 -
-  time: 2.0
+  time: 3.0
   task: Dossier aanpassen, finetunen
 -
-  time: 1.0
+  time: 2.0
   task: Visuals website aangepast
 -
-  time: 2.75
+  time: 3.75
   task: Styleguide
 -
-  time: 1.5
+  time: 2.5
   task: Aanpassingen doorvoeren in dossier
 -
   time: 3
