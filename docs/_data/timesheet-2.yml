@@ -36,8 +36,8 @@
   time: 1.5
   task: Gebruikerstesten bespreken, uitschrijven en de door te voeren aanpassingen uitschrijven
 -
-  time: 3.5
-  task: samenzitten en wireframes van beide toestellen bespreken en planning maken voor de komende weken
+  time: 4.5
+  task: samenzitten en wireframes van beide toestellen bespreken, visuals van watch en app en planning maken voor de komende weken
 -
   time: 2
   task: Dossier aanpassen + stijlen
@@ -47,6 +47,9 @@
 -
   time: 2.0
   task: Dossier aanpassen, finetunen
+-
+  time: 1.0
+  task: Visuals website aangepast
 -
   time: 2.75
   task: Styleguide
